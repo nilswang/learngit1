@@ -4,4 +4,8 @@ Wings vs EG 2:0
 Wings vs DC 3:1
 TI6 Champions Wings
 TI5 Champions EG
-ti3 cHAMPIONS A
+<<<<<<< HEAD
+TI4 Champions NB
+=======
+TI4 Champions NB
+>>>>>>> feature1
